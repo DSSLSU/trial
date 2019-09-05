@@ -1,3 +1,1 @@
-helloFDSFDS
-
-shit
+print("Hello")
